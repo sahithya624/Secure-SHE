@@ -1,0 +1,146 @@
+{
+    "sdd9876aw2n": {
+        "name": "test 1",
+        "aadhar": "123456789123",
+        "location": [
+            28.7041,
+            77.1025
+        ],
+        "marked": false
+    },
+    "fgh4567tyu8": {
+        "name": "test 2",
+        "aadhar": "987654321987",
+        "location": [
+            11.1271,
+            78.6569
+        ],
+        "marked": false
+    },
+    "jkl0987opq9": {
+        "name": "test 3",
+        "aadhar": "456789123456",
+        "location": [
+            22.5726,
+            88.3639
+        ],
+        "marked": false
+    },
+    "mnb2345wer0": {
+        "name": "test 4",
+        "aadhar": "321987654321",
+        "location": [
+            15.2993,
+            74.124
+        ],
+        "marked": false
+    },
+    "vbn5678sdf1": {
+        "name": "test 5",
+        "aadhar": "789123456789",
+        "location": [
+            19.076,
+            72.8777
+        ],
+        "marked": false
+    },
+    "xcv6789zxc2": {
+        "name": "test 6",
+        "aadhar": "654321987654",
+        "location": [
+            34.0837,
+            74.7973
+        ],
+        "marked": false
+    },
+    "qwe7890asd3": {
+        "name": "test 7",
+        "aadhar": "912345678912",
+        "location": [
+            23.2599,
+            77.4126
+        ],
+        "marked": false
+    },
+    "rty8901fgh4": {
+        "name": "test 8",
+        "aadhar": "345678912345",
+        "location": [
+            13.0827,
+            80.2707
+        ],
+        "marked": false
+    },
+    "uio9012jkl5": {
+        "name": "test 9",
+        "aadhar": "678912345678",
+        "location": [
+            26.9124,
+            75.7873
+        ],
+        "marked": false
+    },
+    "poi0123mnb6": {
+        "name": "test 10",
+        "aadhar": "234567891234",
+        "location": [
+            8.5241,
+            76.9366
+        ],
+        "marked": false
+    },
+    "zxc3456qwe7": {
+        "name": "test 11",
+        "aadhar": "567891234567",
+        "location": [
+            31.1048,
+            77.1734
+        ],
+        "marked": false
+    },
+    "asd4567rty8": {
+        "name": "test 12",
+        "aadhar": "891234567891",
+        "location": [
+            18.5204,
+            73.8567
+        ],
+        "marked": false
+    },
+    "fgh5678uio9": {
+        "name": "test 13",
+        "aadhar": "123456789012",
+        "location": [
+            25.5941,
+            85.1376
+        ],
+        "marked": false
+    },
+    "jkl6789poi0": {
+        "name": "test 14",
+        "aadhar": "456789012345",
+        "location": [
+            12.9716,
+            77.5946
+        ],
+        "marked": false
+    },
+    "mnb7890lkh1": {
+        "name": "test 15",
+        "aadhar": "789012345678",
+        "location": [
+            9.9312,
+            76.2673
+        ],
+        "marked": false
+    },
+    "hjk8901bnm2": {
+        "name": "test 16",
+        "aadhar": "012345678901",
+        "location": [
+            17.385,
+            78.4867
+        ],
+        "marked": false
+    }
+}
